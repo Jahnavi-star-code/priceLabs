@@ -121,6 +121,3 @@ Future Enhancements
 Page Object Model (POM) implementation
 
 API automation using cy.api
-API tests
-
-If you want, I can also give you a GitHub Actions YAML and an ideal folder structure to upgrade this project to SDET level.
