@@ -1,0 +1,18 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^15.10.0",
+    "cypress-real-events": "^1.15.0"
+  },
+  "devDependencies": {
+    "cypress-plugin-api": "^2.11.2"
+  }
+}
